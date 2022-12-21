@@ -2,7 +2,7 @@
 A bookmarklet to disable extensions based on LTBEEF with an interface based on the chrome extension page
 
 ### Installation
-For easy setup go the the website at https://fognetwork.github.io/Ingot
+For easy setup go the the website at https://onebrancell.github.io/Ingot
 
 1. Show your bookmarks bar with `ctrl + shift + b`
 
